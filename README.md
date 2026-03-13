@@ -10,14 +10,19 @@ Este projeto foi desenvolvido com fins de estudo para praticar a integração en
 Frontend:
 
 React
+
 Material UI (MUI)
-JavaScript
+
+
+
 HTML / CSS
 
 Backend:
 
 Java
+
 Spring Boot
+
 Maven
 
 Como executar o projeto
