@@ -6,14 +6,16 @@ O dashboard apresenta atalhos para diferentes áreas do sistema, como Alunos, Cu
 Este projeto foi desenvolvido com fins de estudo para praticar a integração entre frontend e backend, além da construção de interfaces modernas utilizando React.
 
 🛠 Tecnologias utilizadas
-Frontend
+
+Frontend:
 
 React
 Material UI (MUI)
 JavaScript
 HTML / CSS
 
-Backend
+Backend:
+
 Java
 Spring Boot
 Maven
